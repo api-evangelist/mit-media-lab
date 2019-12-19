@@ -1,0 +1,45 @@
+{
+    "name": "MIT Media Lab",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-10-pm.png",
+    "tags": [
+        "have api",
+        "profile",
+        "universities"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mit-media-lab\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MIT Media Lab",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-10-pm.png",
+            "humanURL": "http:\/\/www.media.mit.edu\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mit-media-lab-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/medium.com\/@medialab\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/medium.com\/feed\/@medialab"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.media.mit.edu\/"
+        }
+    ]
+}
